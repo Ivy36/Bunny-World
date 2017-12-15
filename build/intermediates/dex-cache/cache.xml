@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8354ab3cae042d1cd1ca6f22f364372c27ff369e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/dfa4e6e1fc58323fddd169abd8475c3307305db7/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e2e2fb34ec2cbd8f7da9dc37ecffe47b338721d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/0ba59577c66aac6c0273aac89a27001ee7e90b77/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d1570364355fab27f0a4e335cb17a1b4da350274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9ab1742fd8e062c5d4d3793403e915cea38ba63f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/dfa4e6e1fc58323fddd169abd8475c3307305db7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1fe1c72c95e87d80a40e1d2a60950e57586267f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_44b5153bedde35e59f21db4f2c6f24aa5f0fb26b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/1307aa44a122a39b8bbb8b26f556541d526ab6a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b35e8358b98a4486e8f8fd86a45cc4e21e3b5fcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/0ba59577c66aac6c0273aac89a27001ee7e90b77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f411043eb00cc5b5b0b4d08f828593c617922bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c5dc4dc803775135c534a442ea8f54adaaa7a223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/69208b5a0e4e9dccf0d37798514fbac4222dbbe5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_693ebac9f00aac45d59548b31d191585a9bc09c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_98abe2c477f3fee4c62eb82731a58df47fd1b961/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2503d595d06714da2eaf62a2d1f3b5238c2a14d1">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4635f7c1ec9f67c773e33eff045cacdb0900073b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2685349ee981960ec3f1308de5f3a986c137b922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8b863ecfe968965b5d6d7b322ad2904fb2d9b744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91f7211a80b7ce880b9a42849c1b750b39a5f2ed">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_220fd1520eb26d736c0d16456177c59977fe76e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_43501d0e0e335c3be7a43d3b798765c14c3162d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1251c72f622642aa4ed173c40582bafeca645b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e58051f2baab0cbe6b0f264da820d6632d305464/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_c2c206c481e815c5beb130949c8cb01b1c88ecad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/d31f37249605e145540ee76ba28d5b4584a21f73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4079bac11d52491b2d8710bec923f8bbe3cff621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/3d078bcbe3e24d132d281f2771ce0f6e04b3fdcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b432dbaaa0748f3e31580ff7f1e8a1b009f451e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a41a1daf23d1da15b30311df2e205c27a1568c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/3c60d4271a4184c131daf6800b4999e23ca19c70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a31454b58820c5d38ac098edeba197248682dab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/69208b5a0e4e9dccf0d37798514fbac4222dbbe5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_466e11309474c4dfb0df49b3a4e3ea2ccf0aa79f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c6911efe601e91d11449f16e6bb76fc5e07d2d1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_425dcd4734f6754ebfc6b3d17440226cccba5719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/392b44ccd4fb78eea510a554d1d12f0b51bc34e6/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_71340c26f18316636508d2655e4578dd478373a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/07abbe56ee94bfcf674660acf6a0cdf9cd251c04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e211d8aa6fb4fa4246d3072e3ca81af63f6af562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d8b7325cdb7c4e236b82fbf6c150832aae6cbffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53314859e1e9f52f8884c232e56015b07def7b89">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b7190a322f9aaa12f5d97057eeb86c9a4dad8899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/392b44ccd4fb78eea510a554d1d12f0b51bc34e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_370bdb39e94935c0c9a8c0f30606259d2f19dbf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/.android/build-cache/3d078bcbe3e24d132d281f2771ce0f6e04b3fdcf/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c279d679537e09b466ae018ed7a4d5953f646316/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jing/Dropbox/CS108/Final Project/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8836b855d4275d7280ad3686c246917e6b2dc26e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Jing/Dropbox/CS108/Final Project/project-code/BunnyWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_868da724afc7499487feabf25908cce6230640d5/classes.dex" />
+    </item>
+
+</items>

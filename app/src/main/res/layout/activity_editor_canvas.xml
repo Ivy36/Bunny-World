@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_editor_canvas"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.stanford.cs108.bunnyworld.EditorCanvas">
+
+    <edu.stanford.cs108.bunnyworld.EditorView
+        android:id="@+id/editorView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <HorizontalScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_vertical"
+        android:scrollbars="none" >
+        <LinearLayout
+            android:id="@+id/possessionList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <GridLayout
+        android:id="@+id/shapeEditor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:rowCount="2"
+        android:columnCount="9"
+        android:visibility="invisible">
+        <TextView
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name" />
+
+        <ImageButton
+            android:id="@+id/changeShapeName"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="changeShapeName"
+            android:src="@drawable/check" />
+
+        <Switch
+            android:id="@+id/setVisibility"
+            android:layout_row="0"
+            android:layout_column="3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:onClick="changeVisibility"
+            android:textOn="Y"
+            android:textOff="N"
+            android:showText="true"
+            android:text="Visible" />
+
+        <Switch
+            android:id="@+id/setMovability"
+            android:layout_row="0"
+            android:layout_column="5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:onClick="changeMovability"
+            android:textOn="Y"
+            android:textOff="N"
+            android:showText="true"
+            android:text="Movable" />
+
+        <ImageButton
+            android:id="@+id/copyShape"
+            android:layout_row="0"
+            android:layout_column="7"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="copyShape"
+            android:src="@drawable/copy" />
+
+        <ImageButton
+            android:id="@+id/cutShape"
+            android:layout_row="0"
+            android:layout_column="8"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="cutShape"
+            android:src="@drawable/cut" />
+
+        <TextView
+            android:id="@+id/widthTextView"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Width" />
+
+        <EditText
+            android:id="@+id/editWidth"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill_horizontal"
+            android:singleLine="true"/>
+
+        <EditText
+            android:id="@+id/editHeight"
+            android:layout_row="1"
+            android:layout_column="3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill_horizontal"
+            android:singleLine="true"/>
+
+        <ImageButton
+            android:id="@+id/changeShapeSize"
+            android:layout_row="1"
+            android:layout_column="4"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:onClick="changeShapeSize"
+            android:src="@drawable/check" />
+
+        <TextView
+            android:id="@+id/textTextView"
+            android:visibility="invisible"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text" />
+
+        <EditText
+            android:id="@+id/textEditText"
+            android:visibility="invisible"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_columnSpan="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_horizontal"
+            android:singleLine="true"/>
+
+        <ImageButton
+            android:id="@+id/changeTextContent"
+            android:visibility="invisible"
+            android:layout_row="1"
+            android:layout_column="3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:onClick="changeTextContent"
+            android:src="@drawable/check" />
+
+        <TextView
+            android:id="@+id/fontSize"
+            android:visibility="invisible"
+            android:layout_row="1"
+            android:layout_column="4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Font Size" />
+
+        <SeekBar
+            android:id="@+id/setFontSize"
+            android:visibility="invisible"
+            android:layout_row="1"
+            android:layout_column="5"
+            android:layout_columnSpan="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill" />
+
+        <ImageButton
+            android:id="@+id/editShapeScript"
+            android:layout_row="1"
+            android:layout_column="7"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="changeShapeScript"
+            android:src="@drawable/edit" />
+
+        <ImageButton
+            android:id="@+id/deleteShape"
+            android:layout_row="1"
+            android:layout_column="8"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="deleteShape"
+            android:src="@drawable/delete" />
+
+        <TextView
+            android:id="@+id/heightTextView"
+            android:layout_row="1"
+            android:layout_column="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Height" />
+
+        <EditText
+            android:id="@+id/editView"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_horizontal"
+            android:singleLine="true"/>
+
+    </GridLayout>
+
+</RelativeLayout>
