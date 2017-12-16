@@ -1,6 +1,3 @@
-Team Members
-Qian Li (liqian12), Jing Jing (jingj93), Liyi Wang (liyiw)
-
 Implemented Features
 1.	Editor Mode:
 •	Create/edit/delete/save a game: When entering the editor mode, a list of the game names is shown. A singleton class was used to store an arraylist of Game objects. When clicking “add” button, a new Game object and an editor version file to store this game are created. The object is added to the game list. To edit the game, the file is read to get all the information of the game. When clicking “save” button, the file is rewritten. When deleting the game, the object is removed from the arraylist and related files are also deleted.
